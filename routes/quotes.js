@@ -1,3 +1,5 @@
+// the router created here where used becomes child route for
+// that parent path.
 const express = require('express');
 // Used to avoid newCap linting error.
 const routerRef = express.Router;
